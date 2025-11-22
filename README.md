@@ -1,2 +1,2 @@
-# Linux-Terminal
-Fully functioning Linux terminal made in C. Currently only tested on Ubuntu.
+# Linux-Shell
+Fully functioning Linux shell made in C. Made for Ubuntu.
